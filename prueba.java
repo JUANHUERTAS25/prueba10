@@ -1,6 +1,6 @@
 public class prueba
 {
     public static void main(String[] args) {
-        System.out.println("fsaf");
+        System.out.println("fsa");
     }
 }
